@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The Null Tree",
+	name: "空值树 - The Null Tree",
 	id: "null_tree",
 	author: "vgakbzc",
 	pointsName: "null points",
