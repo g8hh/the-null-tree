@@ -390,7 +390,7 @@ var cnRegReplace = new Map([
     [/^Have at least (.+) wp$/, '至少有 $1 水点每秒'],
     [/^Have at least (.+) ap$/, '至少有 $1 气点每秒'],
     [/^Have at least (.+) fp$/, '至少有 $1 火点每秒'],
-    [/^Next at (.+) compressed null points$/, '下一个在 $1 严肃哦空点数'],
+    [/^Next at (.+) compressed null points$/, '下一个在 $1 压缩空点'],
     [/^Next at (.+) null points$/, '下一个在 $1 空点数'],
     [/^Next at (.+) points$/, '下一个在 $1 点数'],
     [/^Buy upgrade ([\d\.]+) in C.$/, '在 C 中购买升级 $1。'],
